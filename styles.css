@@ -1,0 +1,549 @@
+/* a class determining font and font-size of popups */
+.popup {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  color: darkgreen;
+}
+
+
+
+button eins {
+/* eine Flasche */
+
+position: relative;
+width: 100px;
+height: 130px;
+
+
+
+/* Rectangle 25 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7F8FC;
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 35%;
+right: 34.68%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 44%;
+right: 44.17%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Icon / Close */
+
+position: absolute;
+left: 84%;
+right: 4%;
+top: 3.08%;
+bottom: 87.69%;
+
+
+
+/* Container */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #3C4043;
+}
+
+button zwei {
+/* zwei Flaschen */
+
+position: relative;
+width: 150px;
+height: 130px;
+
+
+
+/* Rectangle 26 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7F8FC;
+border-radius: 10px;
+
+
+/* Icon / Close */
+
+position: absolute;
+left: 89.33%;
+right: 2.67%;
+top: 3.08%;
+bottom: 87.69%;
+
+
+
+/* Container */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #3C4043;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.67%;
+right: 23.12%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.33%;
+right: 56.45%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.33%;
+right: 62.78%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.67%;
+right: 29.45%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+}
+
+button drei {
+/* drei Flaschen */
+
+position: relative;
+width: 200px;
+height: 130px;
+
+
+
+/* Rectangle 61 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7F8FC;
+border-radius: 10px;
+
+
+/* Icon / Close */
+
+position: absolute;
+left: 92%;
+right: 2%;
+top: 3.08%;
+bottom: 87.69%;
+
+
+
+/* Container */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #3C4043;
+
+
+/* Vector */
+
+position: absolute;
+left: 22%;
+right: 72.08%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 47%;
+right: 47.08%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 72%;
+right: 22.08%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 42.5%;
+right: 42.34%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 67.5%;
+right: 17.34%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.5%;
+right: 67.34%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+}
+
+
+button vier {
+/* vier Flaschen */
+
+position: relative;
+width: 250px;
+height: 130px;
+
+
+
+/* Rectangle 30 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7F8FC;
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.6%;
+right: 77.67%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.6%;
+right: 57.67%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.6%;
+right: 37.67%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.6%;
+right: 17.67%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14%;
+right: 73.87%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34%;
+right: 53.87%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 54%;
+right: 33.87%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 74%;
+right: 13.87%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Icon / Close */
+
+position: absolute;
+left: 93.6%;
+right: 1.6%;
+top: 3.08%;
+bottom: 87.69%;
+
+
+
+/* Container */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #3C4043;
+}
+
+button fuenf {
+/* fünf Flaschen */
+
+position: relative;
+width: 300px;
+height: 130px;
+
+
+
+/* Rectangle 62 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F7F8FC;
+border-radius: 10px;
+
+
+/* Icon / Close */
+
+position: absolute;
+left: 94.67%;
+right: 1.33%;
+top: 3.08%;
+bottom: 87.69%;
+
+
+
+/* Container */
+
+position: absolute;
+left: 29.17%;
+right: 29.17%;
+top: 29.17%;
+bottom: 29.17%;
+
+background: #3C4043;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.67%;
+right: 81.39%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.33%;
+right: 64.72%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 48.06%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.67%;
+right: 31.39%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 81.33%;
+right: 14.72%;
+top: 27.69%;
+bottom: 67.18%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.67%;
+right: 78.23%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.33%;
+right: 61.56%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 45%;
+right: 44.89%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.67%;
+right: 28.23%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.33%;
+right: 11.56%;
+top: 33.85%;
+bottom: 20.34%;
+
+background: #000000;
+}

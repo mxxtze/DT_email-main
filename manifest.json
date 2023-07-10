@@ -1,0 +1,23 @@
+{
+  "name": "GreenMail",
+  "version": "0.0.1",
+  "description": "Sustainable Mailing",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["*://mail.google.com/*"],
+      "css": ["styles.css"],
+      "js": ["content_gmail.js"],
+      "run_at": "document_idle",
+      "contentScriptOptions": {
+        "runOnLoad": true
+      }
+    }
+  ],
+  "permissions": ["activeTab", "scripting", "storage", "tabs", "notifications", "alarms"],
+  "host_permissions": ["*://mail.google.com/*"],
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  }
+}
